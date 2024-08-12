@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617809689349",
+    "project_id": "dotolo-wambewu-89d14",
+    "storage_bucket": "dotolo-wambewu-89d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617809689349:android:ee9104f27c1a32a044556c",
+        "android_client_info": {
+          "package_name": "com.example.robotics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v2CE3UcZzN_kw-Q0lAN4u0G8o3eR5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
