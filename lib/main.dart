@@ -28,13 +28,13 @@ void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyD7_v2CE3UcZzN_kw-Q0lAN4u0G8o3eR5g",
-      appId: "1:617809689349:android:ee9104f27c1a32a044556c",
-      messagingSenderId: "617809689349",
-      projectId: "dotolo-wambewu-89d14",
+      apiKey: "",
+      appId: "",
+      messagingSenderId: "",
+      projectId: "",
     ),
   );
-  Gemini.init(apiKey: 'AIzaSyCPRMhaIZVI1093HamBIuwV5gsMDq4NYLM');
+  Gemini.init(apiKey: '');
   runApp(const MyApp());
 }
 
