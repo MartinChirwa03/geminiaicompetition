@@ -6,7 +6,7 @@ import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 
 void main() {
-  Gemini.init(apiKey: 'AIzaSyApWI94rnsh1Djfz0xRjTBewE7ITE3iuNc');
+  Gemini.init(apiKey: '');
   runApp(const MyApp());
 }
 
